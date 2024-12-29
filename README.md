@@ -1,0 +1,2 @@
+# DynamicWebToS3Migration
+このプロジェクトは、CMS管理のWebサイトからファイルをダウンロードし、Amazon S3にアップロードするためのPythonスクリプトを提供します。
