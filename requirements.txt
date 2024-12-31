@@ -1,0 +1,5 @@
+# Beautiful Soup - HTML parser
+beautifulsoup4
+
+# AWS SDK for Python (Boto3)
+boto3

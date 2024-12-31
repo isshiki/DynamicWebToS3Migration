@@ -1,3 +1,6 @@
+# This rule ignores all files and directories starting with '@' in the root and all subdirectories
+@*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
